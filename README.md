@@ -1,7 +1,7 @@
 # Rough plans
 
-[!WARNING]  
-This would be necessary only if you plan on running encrypted or want to make your cab look *really* cool. otherwise, use 🏳️‍⚧️DJ 
+> [!WARNING]  
+> This would be necessary only if you plan on running encrypted or want to make your cab look *really* cool. otherwise, use 🏳️‍⚧️DJ 
 
 So, the iidx lightning cab has enough lights to make a normal person blind, and as we all know, a legacy cab only has a fraction of them, and they're either neons or plain rgb, meanwhile the lightning cab uses mainly the ws2812b led chip for all the rgb stuff (except the turntables and the subwoofer leds, where they use plain rgb).
 
