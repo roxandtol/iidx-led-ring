@@ -10,7 +10,7 @@ So to get some of the lightning leds to a legacy cab, we could switch out the ne
 
 In the manual, there's a white tape led section, which we could link the tape leds to the original spotlights the cab has, and 4 argb led sections which correspond to the gray areas on this picture
 ![lightning](lightning-manual-plans/lightning_cab_marked.png)
-So we could use some trickery, and try to make some boards to fit in a legacy cab. The solution I was thinking of is this. where the red circles represent a neon, and the green lines represent the sides in a lightning cab. the red circles would have 27 leds each one (since there's 54 per side), and the sides would have 11 leds (to represent the title box leds)
+So we could use some trickery, and try to make some boards to fit in a legacy cab. The solution I was thinking of is this. where the red circles represent a neon, and the green lines represent the sides in a lightning cab. the red circles would have 27 leds each one (since there's 54 per side), and the sides would have 11 leds (to represent the title box leds). This would work for a 1st - 2nd gen cab. Tricoro cabs have a led strip at the top, which would need a simple led strip
 ![legacy_soluiton](lightning-manual-plans/leds_for_headers.jpg)
 
 Maybe there could be a led board that uses the original holes of a cab, and looks legit enough, and then a diffuser to not make it as bright (although being honest, I think most people will just turn on concentration mode on their cab lol)
